@@ -1,4 +1,5 @@
 # nga
 Project NGA
 
-![SolutionArchitecture](https://user-images.githubusercontent.com/57310445/233870722-b5ee4131-8bfc-457a-a765-d52b2af62cf0.png)
+
+![ProjectArch](https://user-images.githubusercontent.com/57310445/233886575-d1438056-c756-4279-9747-354eaf12579f.png)
