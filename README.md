@@ -1,5 +1,4 @@
 # nga
 Project NGA
 
-
-![ProjectArch](https://user-images.githubusercontent.com/57310445/233886575-d1438056-c756-4279-9747-354eaf12579f.png)
+![ProjectArch](https://github.com/prafulmaka/nga/assets/57310445/9c45bf9a-a573-40da-840f-17dba160ec01)
